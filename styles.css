@@ -32,7 +32,7 @@
         .Read-more-buttton:hover{
             cursor: pointer;
             background-color: white;
-            color: black;
+            color: rgb(11, 89, 39);
         }
         .List-items-div{
             display: flex;
