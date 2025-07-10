@@ -29,6 +29,11 @@
             height: 40px;
             font-weight: 700;
         }
+        .Read-more-buttton:hover{
+            cursor: pointer;
+            background-color: white;
+            color: black;
+        }
         .List-items-div{
             display: flex;
             justify-content: center;
